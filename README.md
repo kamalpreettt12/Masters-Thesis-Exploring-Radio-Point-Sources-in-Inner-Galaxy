@@ -1,1 +1,1 @@
-# Masters-Thesis-Exploring-Radio-Point-Sources-in-Inner-Galaxy
+**Exploring Radio Point Sources in the Inner Galaxy**
